@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![About](about-me.jpg)
+<img src="https://raw.githubusercontent.com/v-yuyao/v-yuyao/master/about-me.jpg">
 
-```
-// Awesome New Feature
-```
+
+<h1 align="center" font-weight="bold">
+  <br>
+  Happly Coding!
+  <br>
+</h1>
