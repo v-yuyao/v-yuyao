@@ -15,10 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://raw.githubusercontent.com/v-yuyao/v-yuyao/master/about-me.jpg">
-
-
-<h1 align="center" font-weight="bold">
-  <br>
-  Happly Coding!
-  <br>
-</h1>
